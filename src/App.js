@@ -16,6 +16,9 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
+           Brett McLaughlin
+              Chief Technology Officer at Volusion
+              View on LinkedIn  Follow on LinkedIn
         </a>
       </header>
     </div>
