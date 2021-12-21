@@ -47,8 +47,8 @@ const Header = () => {
     <header id="intro">
       <article className="fullheight">
         <div className="hgroup">
-          <h1>Tagarani's Grill &#38; Kök</h1>
-          <h2>Kolgrillad orientalisk mat</h2>
+          <h1>iT &#38;bOOSTs </h1>
+          <h2>C#, ASP.NET, Elasticsearch, Kibana, Azure, React, Vue, Angular, </h2>
           <p><a href="#welcome"><img src="https://landonhotel.com/images/misc/arrow.png" alt="down arrow" /></a></p>
         </div>
       </article>
